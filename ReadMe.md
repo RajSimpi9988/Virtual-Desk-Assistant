@@ -1,4 +1,4 @@
-# This project is made with the multiple python libraries which help us to implement AI and Advanced Computer Vision.
+# Voice assistant using python libraries ad AI.
   The voice assistant uses multiple pytho libraries which are as follows:
       
       1)pyttsx3
