@@ -18,5 +18,5 @@
    NOTE: the project will oly work if the python eviorment you are usig has a versio of 8.10 or lower 
          as the "mediapipe" library is not supportig currently above this respective version.
          
-                                                   HOPE YOU GUYS LIKE IT AND GIVE YOUR VALUABLE INPUTS TOO!!!!
-                                                                        THANKYOU!!!!!!!!!!
+                                                  HOPE YOU GUYS LIKE IT AND GIVE YOUR VALUABLE INPUTS TOO!!!!
+                                                  THANKYOU!!!!!!!!!!
